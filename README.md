@@ -7,6 +7,7 @@ This repository was created for "Json Data Load System" in the VRC U# Project.\
 https://creators.vrchat.com/worlds/udon/data-containers/vrcjson/
 \
 https://creators.vrchat.com/worlds/udon/data-containers/data-dictionaries \
-
-사용 예시\
+\
+\
+사용 예시, Waktaland - 설명용 버튼 세트 중 일부\
 ![image](https://github.com/Listing2/VRC-JSON-Test/assets/107299092/d17568a8-a4b9-442a-a222-6360a98b5aa0)
