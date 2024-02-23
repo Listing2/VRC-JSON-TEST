@@ -1,6 +1,6 @@
 # VRC_JSON_Test
 
-This Repository is made for loading texts in VRC.\
+This repository was created for "Json Data Load System" in the VRC U# Project.\
 (Made By 리스팅)
 
 관련 docs > \
