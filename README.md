@@ -1,7 +1,6 @@
 # VRC_JSON_Test
 
 This repository was created for "Json Data Load System" in the VRC U# Project.\
-(Made By Listing)
 
 관련 docs > \
 https://creators.vrchat.com/worlds/udon/data-containers/vrcjson/
