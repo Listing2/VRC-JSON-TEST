@@ -1,6 +1,6 @@
 # VRC_JSON_Test
 
-This repository was created for "Sample String Downloader" in the VRC U# Project.
+This repository was created for "Sample String Downloader" in the VRC U# Project
 
 관련 docs > \
 https://creators.vrchat.com/worlds/udon/data-containers/vrcjson/
